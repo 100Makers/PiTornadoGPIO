@@ -1,0 +1,29 @@
+div{
+    position:fixed;
+    height:50%;
+    width:50%;
+}
+
+#red{
+    background-color:red;
+    top:0;
+    right:0;
+}
+
+#yellow{
+    background-color:yellow;
+    top:0;
+    left:0;
+}
+
+#green{
+    background-color:green;
+    bottom:0;
+    right:0;
+}
+
+#blue{
+    background-color:blue;
+    bottom:0;
+    left:0;
+}
