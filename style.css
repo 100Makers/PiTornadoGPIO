@@ -2,6 +2,7 @@ div{
     position:fixed;
     height:50%;
     width:50%;
+    cursor:pointer;
 }
 
 #red{
